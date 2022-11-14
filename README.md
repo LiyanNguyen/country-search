@@ -9,8 +9,8 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 ![image](https://user-images.githubusercontent.com/50958126/201601796-a2d7c7b1-06d7-4c6b-b10d-563858c6344d.png)
 
 ### Links
-- Source URL: https://github.com/LiyanNguyen/todo-app-svelte
-- Live Site URL: https://liyannguyen.github.io/todo-app
+- Source URL: https://github.com/LiyanNguyen/country-search
+- Live Site URL: https://silly-concha-ccd71e.netlify.app/
 
 ### My Process
 - Create the project using Svelte framework
